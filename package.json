@@ -22,7 +22,7 @@
     "doc": "rm -rf ./doc && typedoc --plugin typedoc-plugin-markdown"
   },
   "dependencies": {
-    "better-opn": "^1.0.0",
+    "better-opn": "^2.1.1",
     "typedoc-plugin-lerna": "^0.1.0"
   }
 }

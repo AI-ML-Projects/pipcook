@@ -18,7 +18,7 @@
   "dependencies": {
     "@tensorflow/tfjs-node-gpu": "x.x.x",
     "@types/fs-extra": "^8.0.1",
-    "better-opn": "^1.0.0",
+    "better-opn": "^2.1.1",
     "chalk": "^3.0.0",
     "cli-progress": "^3.4.0",
     "decompress-zip": "^0.2.2",
